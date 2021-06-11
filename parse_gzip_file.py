@@ -35,6 +35,3 @@ def load_data(path: str):
     for document in parsed_data:
         pass
         # load document to database (or do something else)
-
-
-print(parse_gzip_file("example.gz"))
